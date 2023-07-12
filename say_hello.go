@@ -1,5 +1,5 @@
 package joemodule
 
 func SayHello() string {
-	return "hello"
+	return "hello Joe"
 }
