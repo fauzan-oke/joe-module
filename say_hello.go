@@ -1,5 +1,5 @@
 package joemodule
 
-func SayHello() string {
-	return "hello Joe"
+func SayHello(name string) string {
+	return "hello Joe" + name
 }
